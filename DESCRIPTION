@@ -1,0 +1,18 @@
+Package: coexr
+Title: Analysis Of Coexplosive Processes
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kostas",
+           family = "Vasilopoulos",
+           role = c("cre", "aut"),
+           email = "k.vasilopoulo@gmail.com")
+Description: Testing for rational bubbles in a bivariate
+    coexplosive vector autoregression methodology as in Engsted and
+    Nielsen (2012) <doi:0.1111/j.1368-423X.2012.00369.x>
+License: GPL-3
+Depends: 
+    R (>= 3.6.0)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
